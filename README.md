@@ -37,5 +37,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fazlulayankoushik&show_icons=true&locale=en&layout=compact" alt="fazlulayankoushik" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fazlulayankoushik&show_icons=true&locale=en" alt="fazlulayankoushik" /></p>
-
-# django-erp-website
